@@ -3,10 +3,10 @@
 var flavor = false; // does something taste like a zombie?
 
 function taste(object) { // function that tastes something to see if it is a zombie
-  if (flavor == false) { // if it's not a zombie flavor
+  if (zombie? == false) { // if it's not a zombie flavor
     console.log('Does not tast like a zombie'); // tell me so
   }// end of if
-  else if(flavor == true) { // if it does taste like zombie
+  else if(zombie? == true) { // if it does taste like zombie
     console.log('BANG. He is dead'); // shoot the zombie
   }// end of else if
   else{ // default case
@@ -22,3 +22,4 @@ var zombie? = function Zombie() { // test to see if it is a zombie and do nothin
    return true; // let me know
   }// end of else if
 }// end of Zombie function
+
