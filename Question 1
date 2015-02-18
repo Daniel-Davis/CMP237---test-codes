@@ -1,0 +1,3 @@
+// Daniel Davis, questions 1, Write a program that declares a variable, assigns it a value, and then somehow changes it by using one of the basic control structures. Be sure to print the result./
+
+var string = Zombie;
